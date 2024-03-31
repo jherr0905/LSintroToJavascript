@@ -1,11 +1,14 @@
 /* Using arithmetic operators, get the individual digits of a 4-digit number like 4936: */
 
 //solution
+let number = 4936
 
-let our4digitnumber = 4936;
-let firstdigit = our4digitnumber % 10; // 6    
-let seconddigit = (our4digitnumber - firstdigit) / 10 % 10; //3
+let ones = number % 10
+ number = (number - ones) / 10
 
+let tens = number % 10
+number = (number - tens) / 10
 
+let hundreds = number % 10
 
-console.log(seconddigit);
+let thousands = (number - hundreds) / 10
