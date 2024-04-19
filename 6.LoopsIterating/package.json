@@ -1,6 +1,7 @@
 {
-  "name": "4.functions",
+  "name": "6.LoopsIterating",
   "version": "1.0.0",
+  "description": "",
   "main": "exercise1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +11,5 @@
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  },
-  "devDependencies": {},
-  "description": ""
+  }
 }
