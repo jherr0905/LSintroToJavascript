@@ -1,0 +1,24 @@
+{
+
+  "en": {
+    "welcomeMessage": "Welcome to Calc!",
+    "invalidNumber": "Hmm... that doesn't look like a valid number.",
+    "firstNumber": "What's the first number?",
+    "secondNumber": "What's the second number?",
+    "operation": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+    "options": "Must choose 1, 2, 3 or 4",
+    "anotherOperation": "Do you want to perform another calculation?\n Y) yes N) no",
+    "optionsYorN": "Must choose Y or N"
+  },
+  "es": {
+    "welcomeMessage": "Bienvenido ala Calculadora!",
+    "invalidNumber": "Hmm... eso no es un numero valido.",
+    "firstNumber": "Cual es el primer numero?",
+    "secondNumber": "Cual es el segundo numero?",
+    "operation": "Cual operacion gusta aser?\n1) Sumar 2) Sustraer 3) Multiplicar 4) Dividir",
+    "options": "Tiene que eligir 1, 2, 3 or 4",
+    "anotherOperation": "Gusta aser otra operacion ?\n S) si N) no",
+    "optionsYorN": "Tiene que eligir Y or N"
+  }
+
+}
