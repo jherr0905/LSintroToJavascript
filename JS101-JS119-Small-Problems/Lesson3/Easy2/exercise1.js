@@ -2,6 +2,7 @@
 
 let advice = "Few things in life are as important as house training your pet dinosaur.";
 
+//My Solution
 console.log(advice.replace('important','urgent'));
 
 //We can use .replaceAll() to remove all occurances of 'important'
